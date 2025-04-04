@@ -1,0 +1,1 @@
+Stone-Paper-Scissors is a classic hand game implemented in Python, played via the Command Line Interface (CLI). Players choose between Rock, Paper, or Scissors across three rounds, with simple rules determining the winner of each round. It's a quick and fun game to test your luck and logic!
